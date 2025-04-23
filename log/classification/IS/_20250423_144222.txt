@@ -1,0 +1,9 @@
+dataset: IS
+epoch 1499 lr 1.000000e-05
+rule_nums: 6.000000e+00
+layer_nums: 2.000000e+01
+loss: 8.307244e+00
+acc: 9.601732e-01
+acc_std: 5.903975e-03
+mF1: 9.599551e-01
+mF1_std: 5.996356e-03
